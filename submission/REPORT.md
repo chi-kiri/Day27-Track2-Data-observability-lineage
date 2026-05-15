@@ -49,9 +49,9 @@ The following summary was generated after the failed dataset run:
 
 ### 4.2 Terminal Execution & Discord Alerts
 Refer to the screenshots in the `submission/` folder:
-- `Screenshot 2026-05-15 234122.png`
-- `Screenshot 2026-05-15 234202.png`
-- `Screenshot 2026-05-15 234247.png`
+- `01_passed_dataset_test.png`
+- `02_failed_dataset_test.png`
+- `03_discord_notification.png`
 
 ---
 
